@@ -1,0 +1,21 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "lib": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.6.2",
+    "webpack": "^1.12.9"
+  }
+}
